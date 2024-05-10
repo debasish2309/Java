@@ -1,4 +1,4 @@
-package Java.practice_hashing;
+package Old_Practice.practice_hashing;
 
 import java.util.HashMap;
 
